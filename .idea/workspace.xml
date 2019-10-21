@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23fad58f-ce70-480a-b6cd-e7b3d3ed1548" name="Default Changelist" comment="" />
+    <list default="true" id="23fad58f-ce70-480a-b6cd-e7b3d3ed1548" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,6 +64,7 @@
     <option name="width" value="1437" />
     <option name="height" value="789" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -71,6 +77,17 @@
             <path>
               <item name="MateUitl" type="b2602c69:ProjectViewProjectNode" />
               <item name="MateUitl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MateUitl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MateUitl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MateUitl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MateUitl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JsonData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,16 +150,23 @@
       <workItem from="1571538362305" duration="604000" />
       <workItem from="1571546129480" duration="1611000" />
       <workItem from="1571568425749" duration="208000" />
-      <workItem from="1571629724846" duration="271000" />
+      <workItem from="1571629724846" duration="513000" />
     </task>
+    <task id="LOCAL-00001" summary="匹配算法">
+      <created>1571630121496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571630121496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14835000" />
+    <option name="totallyTimeSpent" value="15077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19453377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -181,6 +205,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="匹配算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="匹配算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/regex/Pattern.class">
