@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MateUitl.iml" filepath="$PROJECT_DIR$/MateUitl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MateUtil.iml" filepath="$PROJECT_DIR$/MateUtil.iml" />
     </modules>
   </component>
 </project>
